@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "raju",
+            "age": 25,
+            "city": "bangalore"
+        },  
+        {
+            "name": "ravi",
+            "age": 30,
+            "city": "mumbai"
+        }
+    ]
+}
